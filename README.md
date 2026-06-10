@@ -87,7 +87,7 @@ Heat map visualisation used to identify concentration patterns and regional expo
 
 ---
 
-# Embedded Reporting Portal
+## Embedded Reporting Portal
 
 The Power BI reports were integrated into an ASP.NET Core reporting application that controlled report visibility based on user permissions.
 
@@ -98,6 +98,7 @@ Key capabilities:
 * Embedded Power BI reporting
 * Claims-based authorisation
 * Server-side access controls
+* Report Categorisation
 
 ### Login Page
 
@@ -105,19 +106,12 @@ Secure login interface for the ASP.NET Core reporting portal, used to authentica
 
 ![Login Page](images/Login%20Page%20.png)
 
-## Reporting Portal Dashboard
+### Reporting Portal Dashboard
 
-The reporting solution was integrated into a custom ASP.NET Core portal that provided users with a central location to access embedded Power BI reports based on their assigned permissions.
+Dashboard landing page displaying available reports, report categories, user access information, and quick navigation to embedded Power BI reports based on assigned permissions.
 
-Features:
+![Reporting Portal Dashboard](images/Dashboard.png)
 
-- Claims-based authentication
-- Role-based report visibility
-- Embedded Power BI reporting
-- Report categorisation
-- Secure access controls
-
-![Reporting Portal Dashboard](images/reporting-portal-dashboard.png)
 ---
 
 ## Security Controls
