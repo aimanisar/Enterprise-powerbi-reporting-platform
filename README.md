@@ -46,7 +46,7 @@ The Power BI semantic model was designed using a fact and dimension approach to 
 
 ---
 
-# Report Showcase
+## Report Showcase
 
 ## Top N Analysis
 
