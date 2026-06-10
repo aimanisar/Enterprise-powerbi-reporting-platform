@@ -1,2 +1,2 @@
 # Enterprise-powerbi-reporting-platform
-Sanitised case study of an enterprise Power BI reporting platform with interactive reports, data modelling, RLS, RBAC, and embedded analytics.
+Enterprise Power BI reporting platform featuring interactive analytics, secure report access, data modelling, and embedded reporting.
