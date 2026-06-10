@@ -101,6 +101,8 @@ Key capabilities:
 
 ### Login Page
 
+Secure login interface for the ASP.NET Core reporting portal, used to authenticate users before granting access to embedded Power BI reports.
+
 ![Login Page](images/Login%20Page%20.png)
 
 ---
