@@ -153,6 +153,6 @@ This project strengthened my skills in:
 * Data modelling
 * DAX calculations
 * Interactive reporting
-* Report security/Application security
+* Report security and application security
 * Embedded analytics
 * Stakeholder-focused reporting solutions
