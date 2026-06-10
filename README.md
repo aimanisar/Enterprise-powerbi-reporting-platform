@@ -105,6 +105,19 @@ Secure login interface for the ASP.NET Core reporting portal, used to authentica
 
 ![Login Page](images/Login%20Page%20.png)
 
+## Reporting Portal Dashboard
+
+The reporting solution was integrated into a custom ASP.NET Core portal that provided users with a central location to access embedded Power BI reports based on their assigned permissions.
+
+Features:
+
+- Claims-based authentication
+- Role-based report visibility
+- Embedded Power BI reporting
+- Report categorisation
+- Secure access controls
+
+![Reporting Portal Dashboard](images/reporting-portal-dashboard.png)
 ---
 
 ## Security Controls
